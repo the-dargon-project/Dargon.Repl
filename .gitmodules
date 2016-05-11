@@ -1,0 +1,12 @@
+[submodule "dependencies/repl"]
+	path = dependencies/repl
+	url = ssh://git@github.com/the-dargon-project/repl
+	branch = master
+[submodule "dependencies/commons"]
+	path = dependencies/commons
+	url = ssh://git@github.com/the-dargon-project/commons.git
+	branch = master
+[submodule "dependencies/ryu"]
+	path = dependencies/ryu
+	url = ssh://git@github.com/the-dargon-project/ryu.git
+	branch = master

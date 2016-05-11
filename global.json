@@ -1,0 +1,11 @@
+﻿{
+    "projects": [
+        "dependencies/repl/src",
+        "dependencies/repl/test",
+        "dependencies/commons/src",
+        "dependencies/ryu/src"
+    ],
+    "sdk": {
+        "version": "1.0.0-rc1-update1"
+    }
+}
