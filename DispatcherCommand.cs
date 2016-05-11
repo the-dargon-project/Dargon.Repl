@@ -1,9 +1,8 @@
-﻿using System;
+﻿using Dargon.Nest.Repl;
+using Dargon.Repl;
+using System;
 using System.Collections.Generic;
 using System.Linq;
-using Dargon.Nest.Repl;
-using Dargon.Repl;
-using ItzWarty;
 
 namespace Dargon.Nest {
    public class DispatcherCommand : ICommand, IDispatcher {
